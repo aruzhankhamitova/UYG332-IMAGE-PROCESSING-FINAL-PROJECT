@@ -1,4 +1,3 @@
-# UYG332-IMAGE-PROCESSING-FINAL-PROJECT
 # Image Processing Final Project
 
 ## Description
